@@ -1,0 +1,16 @@
+{
+    "name": "Cryptobcu Gradient Color Generator",
+    "description": "Gradient color generator for CSS",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+      "16": "icon_16.png"
+    },
+  
+    "permissions": ["activeTab"],
+  
+    "action": {
+      "default_icon": "icon_16.png",
+      "default_popup": "popup.html"
+    }
+  }
